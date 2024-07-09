@@ -6,7 +6,7 @@
 
 2. **To change the directory type the below command:**
    ```sh
-   cd  TODO-APP
+   cd  Todo-App
 
 3. **Write the below command to Install the dependencies:**  
      ```sh
